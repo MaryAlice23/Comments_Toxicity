@@ -44,8 +44,6 @@ HOW TO RUN THE PROJECT
 
 Step 1: Clone the repository
 
-git clone https://github.com/your-username/comment-toxicity-detection
-
 Step 2: Install required libraries
 
 pip install -r requirements.txt
