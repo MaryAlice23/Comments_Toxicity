@@ -1,9 +1,9 @@
-PROJECT TITLE
+## PROJECT TITLE
 Deep Learning for Comment Toxicity Detection with Streamlit
 
 -----------------------------------------------------
 
-PROJECT OVERVIEW
+## PROJECT OVERVIEW
 
 This project develops a machine learning based system that automatically detects toxic comments in online platforms using Natural Language Processing and Deep Learning techniques.
 
@@ -15,7 +15,7 @@ The trained machine learning model is integrated into a Streamlit web applicatio
 
 -----------------------------------------------------
 
-FEATURES
+## FEATURES
 
 • Real-time toxicity prediction for user comments  
 • NLP based text preprocessing and feature extraction  
@@ -26,7 +26,7 @@ FEATURES
 
 -----------------------------------------------------
 
-TECHNOLOGIES USED
+## TECHNOLOGIES USED
 
 Python  
 Natural Language Processing (NLP)  
@@ -40,7 +40,7 @@ Matplotlib / Plotly
 
 -----------------------------------------------------
  
-HOW TO RUN THE PROJECT
+## HOW TO RUN THE PROJECT
 
 Step 1: Clone the repository
 
@@ -58,7 +58,7 @@ http://localhost:8501
 
 -----------------------------------------------------
 
-APPLICATION FUNCTIONALITIES
+## APPLICATION FUNCTIONALITIES
 
 1. Enter a comment in the text input box
 2. Click the Predict button
@@ -70,7 +70,7 @@ Users can upload CSV files to analyze multiple comments at once.
 
 -----------------------------------------------------
 
-USE CASES
+## USE CASES
 
 • Social Media Content Moderation  
 • Online Community Management  
@@ -80,7 +80,7 @@ USE CASES
 
 -----------------------------------------------------
 
-FUTURE IMPROVEMENTS
+## FUTURE IMPROVEMENTS
 
 • Multilingual toxicity detection  
 • Integration with social media APIs  
@@ -88,4 +88,4 @@ FUTURE IMPROVEMENTS
 • Advanced transformer models such as BERT  
 
 -----------------------------------------------------
-Dataset : [LINK](https://drive.google.com/drive/folders/1WXLTp57_TYa61rcPfQIzRUcE1Rz76Emk)
+## Dataset : [LINK](https://drive.google.com/drive/folders/1WXLTp57_TYa61rcPfQIzRUcE1Rz76Emk)
