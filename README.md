@@ -1,4 +1,4 @@
-## PROJECT TITLE
+## Comments_Toxicity_Prediction
 Deep Learning for Comment Toxicity Detection with Streamlit
 
 -----------------------------------------------------
